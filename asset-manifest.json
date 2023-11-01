@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yash-networking/static/css/main.e6c13ad2.css",
+    "main.js": "/yash-networking/static/js/main.7a843c24.js",
+    "static/js/787.8678e958.chunk.js": "/yash-networking/static/js/787.8678e958.chunk.js",
+    "static/media/image.jpg": "/yash-networking/static/media/image.8d2a00f31abbd96af2fd.jpg",
+    "index.html": "/yash-networking/index.html",
+    "main.e6c13ad2.css.map": "/yash-networking/static/css/main.e6c13ad2.css.map",
+    "main.7a843c24.js.map": "/yash-networking/static/js/main.7a843c24.js.map",
+    "787.8678e958.chunk.js.map": "/yash-networking/static/js/787.8678e958.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7a843c24.js"
+  ]
+}
